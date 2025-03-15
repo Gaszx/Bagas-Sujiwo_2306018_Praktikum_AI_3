@@ -7,9 +7,7 @@ A* lebih cocok digunakan karena lebih efisien dan optimal dibanding algoritma la
 
 ## 🚀 Cara Menjalankan Program  
 1. **Pastikan Python sudah terinstall**  
-2. **Jalankan script berikut di terminal atau IDE:**
-   ```bash
-   python a_star.py
+2. **Jalankan file script di terminal atau IDE:**
 
 ## 🚀 Cara Menjalankan di Google Colab
 -- Clone repository ini ke Google Colab atau komputer lokal:
